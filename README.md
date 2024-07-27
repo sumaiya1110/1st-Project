@@ -1,4 +1,3 @@
 # 1st-Project
-this is my github project
-<br>
-Here is my cv.
+This is my First Project.  
+
